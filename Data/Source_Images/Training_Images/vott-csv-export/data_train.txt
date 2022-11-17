@@ -1,100 +1,1000 @@
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/9k_%20(1).jpg 80,3,215,144,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/9k_%20(2).jpg 59,6,174,126,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/2Q__%20(1).jpg 27,15,107,87,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/2Q__%20(2).jpg 87,2,197,124,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/2Q__.jpg 3,1,106,103,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/9k_%20(4).jpg 96,30,151,79,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/9k_%20(5).jpg 135,4,266,131,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/9k_%20(3).jpg 66,49,177,153,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/9k_%20(6).jpg 145,55,213,129,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/9k_%20(7).jpg 81,39,180,137,0 148,0,248,101,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/9k_.jpg 26,0,186,162,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Z%20(2).jpg 187,0,269,70,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Z%20(3).jpg 13,0,247,170,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Z%20(4).jpg 80,58,185,172,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Z%20(1).jpg 46,4,143,100,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Z.jpg 117,22,235,127,0 6,84,104,180,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(1).jpg 9,9,195,169,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(10).jpg 56,23,119,82,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(100).jpg 109,86,154,124,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(11).jpg 123,19,193,88,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(14).jpg 7,22,195,182,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(12).jpg 95,51,186,120,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(13).jpg 68,14,183,109,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(15).jpg 28,8,138,119,0 67,55,195,193,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(16).jpg 23,8,210,181,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(18).jpg 47,5,251,168,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(17).jpg 74,12,181,98,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(19).jpg 153,2,254,100,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(2).jpg 67,16,132,77,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(20).jpg 46,26,133,107,0 132,35,213,107,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(21).jpg 17,77,102,167,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(23).jpg 175,8,228,67,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(22).jpg 150,6,226,95,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(24).jpg 80,2,225,146,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(25).jpg 56,19,146,94,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(26).jpg 82,17,177,115,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(27).jpg 44,62,207,175,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(29).jpg 29,2,180,155,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(28).jpg 163,27,278,112,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(3).jpg 13,9,108,112,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(30).jpg 122,65,159,112,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(31).jpg 153,83,180,110,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(32).jpg 142,21,222,91,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(33).jpg 129,17,289,163,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(34).jpg 65,102,85,122,0 93,81,119,104,0 124,82,149,105,0 150,84,175,107,0 180,85,206,112,0 213,95,239,118,0 243,110,262,132,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(36).jpg 77,23,170,111,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(35).jpg 46,25,145,146,0 131,8,250,128,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(37).jpg 96,10,171,74,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(38).jpg 67,20,172,111,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(39).jpg 8,10,146,123,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(4).jpg 109,27,188,98,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(40).jpg 172,3,279,109,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(42).jpg 106,7,195,87,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(41).jpg 57,40,237,170,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(43).jpg 78,38,106,73,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(44).jpg 55,5,217,177,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(46).jpg 67,56,158,118,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(45).jpg 16,17,243,187,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(47).jpg 54,5,164,101,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(48).jpg 55,42,100,87,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(49).jpg 195,41,266,101,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(50).jpg 94,21,119,47,0 180,12,203,33,0 235,14,261,37,0 105,102,131,126,0 226,103,265,148,0 52,98,76,117,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(5).jpg 109,7,212,110,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(51).jpg 20,4,118,84,0 176,46,273,168,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(52).jpg 164,27,224,84,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(53).jpg 0,0,110,101,0 155,26,286,148,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(54).jpg 39,1,205,150,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(56).jpg 63,14,179,124,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(57).jpg 121,59,188,122,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(58).jpg 76,30,225,168,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(59).jpg 95,2,171,86,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(6).jpg 74,3,131,53,0 184,56,252,113,0 133,26,190,83,0 247,21,288,73,0 11,37,62,92,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(60).jpg 122,21,251,134,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(61).jpg 170,12,238,81,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(62).jpg 99,21,156,81,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(63).jpg 46,31,130,105,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(64).jpg 111,11,218,131,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(65).jpg 52,24,131,118,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(66).jpg 94,38,188,124,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(67).jpg 76,3,190,113,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(69).jpg 54,17,238,166,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(68).jpg 119,13,244,137,0 30,23,131,125,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(7).jpg 71,20,121,65,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(70).jpg 176,7,255,98,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(71).jpg 146,0,254,116,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(73).jpg 63,0,212,131,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(72).jpg 58,5,211,154,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(74).jpg 177,54,242,113,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(75).jpg 26,29,166,148,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(76).jpg 15,6,84,82,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(78).jpg 47,22,183,150,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(77).jpg 82,63,134,120,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(79).jpg 103,5,180,56,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(8).jpg 86,0,293,163,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(80).jpg 102,65,132,103,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(81).jpg 67,1,200,147,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(82).jpg 76,16,190,138,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(83).jpg 97,5,264,166,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(84).jpg 46,7,147,99,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(85).jpg 55,34,93,79,0 216,31,251,70,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000001.jpg 204,189,293,414,0 199,190,287,269,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000002.jpg 176,120,292,383,0 170,121,280,215,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000003.jpg 151,241,279,435,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000004.jpg 174,205,327,393,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000005.jpg 48,0,467,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000006.jpg 97,218,328,567,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000007.jpg 144,145,338,544,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000008.jpg 42,102,223,370,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000009.jpg 0,263,362,623,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000010.jpg 125,66,467,623,3 1,22,255,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000011.jpg 0,0,467,466,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000012.jpg 73,154,249,483,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000013.jpg 32,9,313,492,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000014.jpg 130,205,362,517,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000015.jpg 236,125,307,244,2 243,203,300,338,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000016.jpg 185,227,322,514,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000017.jpg 177,96,351,422,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000018.jpg 1,82,467,350,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000019.jpg 8,67,466,623,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000020.jpg 66,516,332,828,5 2,0,466,675,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000021.jpg 0,111,467,613,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000022.jpg 0,79,466,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000023.jpg 0,137,465,710,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000024.jpg 164,416,336,602,7 177,175,467,522,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000025.jpg 0,156,399,399,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000026.jpg 53,181,299,399,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000027.jpg 0,0,623,467,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000028.jpg 0,13,467,348,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000029.jpg 0,0,831,467,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000030.jpg 87,375,252,624,5 60,148,332,395,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000031.jpg 89,101,395,547,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000032.jpg 0,6,467,256,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000033.jpg 1,8,466,623,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000034.jpg 0,0,466,796,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000035.jpg 3,461,318,623,5 0,0,467,623,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000036.jpg 164,231,281,562,5 94,24,316,272,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000037.jpg 0,28,447,623,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000038.jpg 0,83,467,630,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000039.jpg 1,48,464,831,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000040.jpg 0,0,466,681,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000041.jpg 0,12,466,623,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000042.jpg 28,0,380,261,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000043.jpg 0,64,467,511,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000044.jpg 0,0,349,261,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000045.jpg 171,286,240,373,8 167,188,243,296,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000046.jpg 0,91,467,527,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000047.jpg 0,37,345,411,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000048.jpg 0,126,325,425,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000049.jpg 180,363,308,531,8 144,202,329,411,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000050.jpg 196,349,254,415,8 188,285,251,356,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000051.jpg 4,360,405,623,8 101,74,467,515,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000052.jpg 64,71,313,262,8 64,0,467,161,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000053.jpg 203,360,299,467,8 181,257,321,390,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000054.jpg 0,74,467,601,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000055.jpg 78,91,385,494,8 56,0,437,152,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000056.jpg 0,0,467,361,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000057.jpg 0,32,321,467,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000058.jpg 0,72,467,508,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000059.jpg 181,84,364,284,8 139,0,390,155,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000060.jpg 147,246,211,317,8 164,161,231,256,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000061.jpg 154,200,467,558,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000062.jpg 1,8,623,467,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000063.jpg 0,229,467,623,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000064.jpg 0,205,467,623,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000065.jpg 1,1,299,378,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000066.jpg 43,416,378,829,5 3,0,442,794,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000067.jpg 114,390,323,630,5 94,198,343,569,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000068.jpg 80,342,344,612,5 0,0,327,514,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000069.jpg 97,272,440,596,8 32,44,442,593,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000070.jpg 59,442,386,623,5 0,0,466,562,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000071.jpg 171,339,337,561,8 209,113,466,441,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000072.jpg 105,298,282,623,5 35,49,340,378,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000073.jpg 132,352,350,558,8 50,63,434,382,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000074.jpg 89,389,400,640,8 0,71,430,430,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000075.jpg 163,308,322,581,5 97,61,378,357,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000076.jpg 69,604,324,831,8 49,249,466,718,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000077.jpg 55,378,376,623,7 0,3,467,496,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000078.jpg 151,262,292,381,7 143,139,291,269,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000079.jpg 0,0,465,624,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000080.jpg 0,14,466,685,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000081.jpg 2,1,465,630,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000082.jpg 151,2,367,338,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000083.jpg 0,332,466,630,7 1,4,464,377,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000084.jpg 154,123,336,623,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000085.jpg 98,131,405,613,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000086.jpg 213,245,333,476,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000087.jpg 0,278,209,623,3 231,200,467,597,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000088.jpg 137,154,467,542,3 0,141,272,590,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000089.jpg 0,4,466,615,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000090.jpg 39,74,355,614,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000091.jpg 134,0,349,369,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000092.jpg 0,0,467,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000093.jpg 211,0,610,466,2 1,11,310,444,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000094.jpg 39,73,322,411,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000095.jpg 106,134,467,622,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000096.jpg 164,159,466,545,3 1,141,279,568,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000097.jpg 64,5,465,763,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000098.jpg 1,3,350,467,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000099.jpg 132,117,467,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000100.jpg 112,1,428,336,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000101.jpg 1,0,346,467,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000102.jpg 114,91,225,303,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000103.jpg 56,102,383,547,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000104.jpg 0,1,467,622,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000105.jpg 0,0,467,622,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000106.jpg 0,6,467,624,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000107.jpg 0,209,465,830,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000108.jpg 0,250,467,624,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000109.jpg 35,131,413,591,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000110.jpg 34,149,424,623,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000111.jpg 102,137,214,283,8 112,38,214,190,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000112.jpg 201,375,283,463,8 210,322,280,407,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000113.jpg 27,189,187,399,8 53,68,259,301,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000114.jpg 124,180,322,437,8 137,22,350,301,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000115.jpg 18,197,467,623,8 2,2,467,325,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000116.jpg 76,305,324,600,8 55,89,410,468,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000117.jpg 158,169,372,388,8 129,26,315,271,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000118.jpg 120,188,168,240,8 121,152,167,206,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000119.jpg 173,222,369,350,8 160,97,332,314,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000120.jpg 190,387,268,471,8 198,321,261,411,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000121.jpg 27,281,231,399,8 30,155,163,359,1 20,127,72,179,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000122.jpg 8,240,467,623,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000123.jpg 24,175,204,364,8 64,49,246,259,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000124.jpg 24,146,183,308,8 55,40,213,222,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000125.jpg 160,227,315,448,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000126.jpg 172,315,281,546,8 150,0,309,335,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000127.jpg 77,0,319,237,3 85,2,284,378,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000128.jpg 157,60,321,405,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000129.jpg 1,190,467,623,8 1,0,446,300,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000130.jpg 63,121,291,315,8 80,1,238,135,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000131.jpg 0,9,467,532,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000132.jpg 191,97,294,276,8 189,1,295,103,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000133.jpg 161,82,334,282,8 152,1,269,92,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000134.jpg 104,133,214,322,8 97,36,235,146,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000135.jpg 0,0,399,299,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000136.jpg 105,86,187,238,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000137.jpg 7,131,467,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000138.jpg 3,202,466,823,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000139.jpg 1,233,466,823,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000140.jpg 0,2,467,623,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000141.jpg 2,683,466,828,5 3,118,466,737,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000142.jpg 149,25,467,350,6 3,9,277,321,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000143.jpg 1,98,466,705,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000144.jpg 6,24,464,785,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000145.jpg 66,42,400,449,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000146.jpg 1,54,466,697,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000147.jpg 9,0,467,261,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000148.jpg 0,29,466,720,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000149.jpg 290,366,422,621,5 281,218,445,412,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000150.jpg 0,54,465,603,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000151.jpg 0,0,466,611,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000152.jpg 0,402,442,623,5 18,0,466,502,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000153.jpg 117,434,321,829,5 72,205,329,522,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000154.jpg 291,282,422,454,5 234,183,419,345,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000155.jpg 0,1,467,349,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000156.jpg 0,318,464,830,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000157.jpg 3,9,467,616,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000158.jpg 198,50,467,262,6 1,68,231,262,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000159.jpg 242,69,467,262,6 0,68,286,262,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000160.jpg 28,35,466,623,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000161.jpg 172,210,333,374,8 172,100,335,225,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000162.jpg 0,0,467,610,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000163.jpg 27,129,257,434,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000164.jpg 114,0,466,793,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000165.jpg 254,223,406,600,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000166.jpg 57,10,276,399,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000167.jpg 92,5,199,229,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000168.jpg 42,125,356,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000169.jpg 113,0,427,372,3 86,0,315,623,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000170.jpg 0,12,465,624,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000171.jpg 233,0,452,303,3 108,0,259,350,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000172.jpg 126,61,226,350,3 217,18,332,350,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000173.jpg 0,0,466,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000174.jpg 86,0,414,537,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000175.jpg 0,0,465,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000176.jpg 0,71,466,609,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000177.jpg 53,456,323,623,7 109,171,466,613,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000178.jpg 89,63,291,350,3 222,5,369,350,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000179.jpg 76,6,385,345,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000180.jpg 221,231,311,310,7 216,129,313,266,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000181.jpg 78,289,466,621,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000182.jpg 76,434,346,623,5 61,1,466,557,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000183.jpg 88,386,466,821,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000184.jpg 48,315,412,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000185.jpg 2,292,441,829,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000186.jpg 128,139,466,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000187.jpg 26,43,266,467,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000188.jpg 0,32,434,830,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000189.jpg 79,12,400,543,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000190.jpg 109,14,362,547,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000191.jpg 0,27,432,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000192.jpg 81,146,327,665,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000193.jpg 79,1,415,624,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000194.jpg 197,237,323,573,5 117,0,381,436,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000195.jpg 155,299,280,561,5 128,130,324,453,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000196.jpg 189,199,300,499,5 114,0,326,362,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000197.jpg 154,188,263,507,5 114,0,271,390,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000198.jpg 0,0,357,606,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000199.jpg 46,1,443,607,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000200.jpg 32,76,421,624,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000201.jpg 0,246,348,548,8 142,1,466,479,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000202.jpg 125,342,390,623,8 0,1,382,496,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000203.jpg 42,285,466,623,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000204.jpg 0,0,467,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000205.jpg 0,83,467,623,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000206.jpg 76,180,267,362,8 72,11,259,198,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000207.jpg 98,187,262,315,8 124,114,228,208,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000208.jpg 112,34,178,96,3 89,76,199,167,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000209.jpg 2,224,467,631,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000210.jpg 24,1,366,289,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000211.jpg 1,1,379,297,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000212.jpg 172,204,310,324,8 181,93,278,223,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000213.jpg 57,167,269,377,8 33,1,304,207,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000214.jpg 88,188,175,280,8 74,101,182,195,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000215.jpg 66,15,153,101,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000216.jpg 117,10,297,475,0 100,3,325,221,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000217.jpg 238,321,324,518,5 226,198,357,342,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000218.jpg 1,78,447,619,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000219.jpg 0,464,448,623,5 1,159,401,526,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000220.jpg 0,1,466,830,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000221.jpg 76,93,465,624,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000222.jpg 0,0,466,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000223.jpg 140,418,285,712,5 100,179,301,466,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000224.jpg 23,390,434,623,7 0,0,466,508,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000225.jpg 0,195,466,778,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000226.jpg 1,159,361,597,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000227.jpg 0,58,467,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000228.jpg 0,228,464,830,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000229.jpg 0,235,466,778,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000230.jpg 0,281,464,824,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000231.jpg 175,378,278,597,5 176,233,296,432,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000232.jpg 0,178,402,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000233.jpg 0,84,466,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000234.jpg 152,351,347,483,7 117,137,388,379,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000235.jpg 51,400,445,623,8 0,0,466,448,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000236.jpg 0,36,467,607,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000237.jpg 4,31,449,339,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000238.jpg 32,0,259,280,6 87,238,243,516,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000239.jpg 73,0,444,380,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000240.jpg 0,95,467,505,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000241.jpg 0,26,467,590,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000242.jpg 1,1,467,624,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000243.jpg 0,61,350,413,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000244.jpg 137,322,284,719,5 99,96,324,525,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000245.jpg 34,52,440,594,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000246.jpg 5,16,458,771,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000247.jpg 0,106,467,573,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000248.jpg 0,147,467,831,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000249.jpg 13,0,458,768,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000250.jpg 0,27,467,631,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000251.jpg 33,32,427,563,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000252.jpg 139,364,324,818,5 126,134,402,638,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000253.jpg 160,295,335,693,5 120,31,374,400,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000254.jpg 31,9,427,624,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000255.jpg 198,294,294,443,9 226,403,282,531,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000256.jpg 0,45,467,631,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000257.jpg 137,46,374,375,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000258.jpg 71,285,202,482,5 199,374,345,603,5 17,101,290,431,9 228,168,467,562,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000259.jpg 0,153,467,623,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000260.jpg 158,292,326,462,8 130,146,340,396,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000261.jpg 184,255,324,397,8 160,131,366,275,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000262.jpg 20,238,467,597,8 41,4,464,328,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000263.jpg 1,171,467,509,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000264.jpg 152,219,294,374,8 157,109,325,243,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000265.jpg 163,359,262,469,8 156,266,243,385,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000266.jpg 27,0,457,339,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000267.jpg 158,255,323,426,8 177,104,356,346,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000268.jpg 183,237,333,375,8 169,120,346,260,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000269.jpg 2,1,467,456,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000270.jpg 185,270,311,399,8 186,167,312,315,11
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000271.jpg 134,377,347,557,5 0,0,464,460,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000272.jpg 0,23,467,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000273.jpg 140,473,305,623,5 113,245,344,527,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000274.jpg 19,162,467,608,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000275.jpg 0,47,467,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000276.jpg 0,57,467,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000277.jpg 0,145,467,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000278.jpg 0,277,467,830,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000279.jpg 0,73,290,415,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000280.jpg 143,322,369,486,5 110,1,455,405,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000281.jpg 4,501,393,623,8 0,214,408,568,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000282.jpg 9,80,151,254,3 15,182,331,439,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000283.jpg 0,102,467,624,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000284.jpg 0,0,467,610,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000285.jpg 50,72,467,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000286.jpg 3,24,345,442,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000287.jpg 0,44,467,602,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000288.jpg 0,0,345,456,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000289.jpg 15,0,339,623,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000290.jpg 179,1,315,53,3 170,28,312,386,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000291.jpg 0,82,358,610,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000292.jpg 0,47,467,601,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000293.jpg 102,2,289,114,3 108,68,317,621,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000294.jpg 28,0,133,217,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000295.jpg 145,397,249,638,5 130,246,264,427,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000296.jpg 142,75,297,442,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000297.jpg 109,57,377,623,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000298.jpg 10,123,445,623,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000299.jpg 114,78,362,445,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000300.jpg 154,119,294,417,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000301.jpg 40,123,467,579,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000302.jpg 101,113,366,623,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000303.jpg 150,72,329,294,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000304.jpg 96,152,340,615,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000305.jpg 53,322,327,566,8 0,73,321,442,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000306.jpg 138,233,298,527,5 66,0,348,357,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000307.jpg 130,108,467,349,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000308.jpg 91,112,311,350,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000309.jpg 1,195,370,623,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000310.jpg 0,1,242,463,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000311.jpg 5,4,466,609,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000312.jpg 3,10,467,350,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000313.jpg 1,115,466,623,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000314.jpg 1,30,466,623,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000315.jpg 1,24,467,350,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000316.jpg 0,0,467,350,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000317.jpg 1,12,466,623,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000318.jpg 75,233,294,450,8 47,8,290,301,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000319.jpg 116,411,460,623,8 0,75,347,609,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000320.jpg 40,2,464,788,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000321.jpg 50,471,413,623,8 0,13,466,623,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000322.jpg 22,403,228,623,5 0,188,226,450,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000323.jpg 1,1,362,350,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000324.jpg 157,301,299,399,8 2,117,297,399,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000325.jpg 2,1,467,623,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000326.jpg 0,2,467,623,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000327.jpg 1,0,464,830,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000328.jpg 2,0,467,623,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000329.jpg 0,0,467,623,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000330.jpg 0,223,315,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000331.jpg 0,29,466,584,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000332.jpg 0,4,466,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000333.jpg 5,411,435,623,7 0,2,413,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000334.jpg 1,15,241,342,3 170,17,457,315,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000335.jpg 1,0,466,827,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000336.jpg 0,203,466,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000337.jpg 0,0,357,597,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000338.jpg 3,1,467,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000339.jpg 1,105,465,551,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000340.jpg 110,335,465,630,3 74,80,465,373,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000341.jpg 2,78,467,616,3 0,158,466,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000342.jpg 1,1,467,468,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000343.jpg 58,449,349,624,7 17,12,385,495,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000344.jpg 56,402,330,624,7 74,40,417,475,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000345.jpg 155,235,286,543,5 128,94,295,247,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000346.jpg 0,201,270,623,3 158,168,467,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000347.jpg 0,460,313,623,5 79,163,467,538,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000348.jpg 78,135,467,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000349.jpg 41,286,467,631,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000350.jpg 0,287,467,830,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000351.jpg 138,393,273,461,7 95,219,332,416,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000352.jpg 108,37,467,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000353.jpg 143,445,402,623,7 79,55,467,536,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000354.jpg 0,0,623,467,7
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000355.jpg 131,106,302,439,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000356.jpg 242,163,312,277,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000357.jpg 129,105,305,442,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000358.jpg 252,115,305,165,6 147,53,250,163,4 261,158,297,204,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000359.jpg 147,406,304,735,5 111,42,358,523,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000360.jpg 11,47,411,623,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000361.jpg 59,118,455,695,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000362.jpg 59,17,411,624,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000363.jpg 0,42,467,830,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000364.jpg 202,357,445,623,5 120,2,467,571,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000365.jpg 0,246,467,624,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000366.jpg 0,2,446,624,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000367.jpg 283,288,436,574,4 21,164,211,492,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000368.jpg 25,176,307,639,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000369.jpg 1,24,290,486,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000370.jpg 91,146,293,493,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000371.jpg 167,326,314,505,7 117,17,376,359,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000372.jpg 0,91,467,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000373.jpg 197,212,376,463,5 123,12,340,273,12
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000374.jpg 1,1,467,606,12
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000375.jpg 27,324,332,624,5 1,1,381,403,12
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000376.jpg 113,377,402,623,5 92,1,466,444,12
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000377.jpg 53,262,345,573,5 1,2,324,394,12
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000378.jpg 84,430,402,611,5 38,0,408,529,12
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000379.jpg 198,172,356,447,5 142,1,347,231,12
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000380.jpg 34,392,467,623,5 1,1,449,514,12
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000381.jpg 116,181,392,521,12
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000382.jpg 209,298,319,560,5 203,132,318,291,12
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000383.jpg 1,18,623,407,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000384.jpg 0,57,467,454,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000385.jpg 0,15,467,293,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000386.jpg 0,56,456,622,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000387.jpg 53,506,333,831,5 0,0,447,739,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000388.jpg 0,0,407,623,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000389.jpg 0,54,350,403,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000390.jpg 1,222,465,791,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000391.jpg 120,327,349,468,5 57,1,409,393,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000392.jpg 0,7,303,396,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000393.jpg 173,293,285,550,5 142,124,299,380,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000394.jpg 0,156,467,623,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000395.jpg 1,1,444,728,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000396.jpg 95,251,364,629,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000397.jpg 0,164,467,602,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000398.jpg 0,199,467,623,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000399.jpg 1,1,467,623,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000400.jpg 0,36,467,832,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000401.jpg 168,214,299,491,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000402.jpg 175,122,328,367,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000403.jpg 32,6,408,630,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000404.jpg 0,164,467,623,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000405.jpg 138,244,285,366,7 131,59,321,298,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000406.jpg 50,1,439,344,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000407.jpg 146,349,266,523,5 119,173,287,428,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000408.jpg 201,400,294,579,5 167,241,316,463,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000409.jpg 0,40,464,813,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000410.jpg 0,0,466,623,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000411.jpg 110,417,312,623,5 18,34,466,613,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000412.jpg 0,12,466,606,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000413.jpg 0,57,465,624,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000414.jpg 142,369,337,623,5 4,18,395,571,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000415.jpg 51,102,466,576,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000416.jpg 51,180,409,467,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000417.jpg 0,97,466,600,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000418.jpg 143,278,314,437,8 132,161,308,312,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000419.jpg 2,134,261,387,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000420.jpg 180,111,298,226,3 177,214,299,333,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000421.jpg 10,8,432,403,6 165,279,382,654,8 162,289,383,768,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000422.jpg 0,0,467,631,6 153,282,462,560,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000423.jpg 0,110,467,392,6 100,341,379,615,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000424.jpg 0,151,467,322,6 66,306,309,605,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000425.jpg 0,0,467,379,6 93,290,421,623,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000426.jpg 105,159,210,316,8 105,170,210,387,5 79,34,229,241,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000427.jpg 137,2,467,631,6 69,230,344,474,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000428.jpg 88,173,354,373,6 156,334,300,577,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000429.jpg 179,184,314,532,5 179,183,308,394,8 121,37,329,225,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000430.jpg 0,33,393,582,6 45,345,361,623,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000431.jpg 105,194,211,429,5 106,191,212,354,8 74,60,236,271,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000432.jpg 0,18,455,567,6 100,358,418,797,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000433.jpg 0,0,450,624,6 93,414,367,624,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000434.jpg 0,0,389,624,6 139,332,350,624,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000435.jpg 175,15,320,557,4 158,14,335,375,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000436.jpg 172,111,278,408,4 172,112,282,317,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000437.jpg 109,2,282,525,4 87,2,268,335,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000438.jpg 16,13,102,260,4 2,13,114,161,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000439.jpg 140,247,312,545,4 141,236,253,447,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000440.jpg 16,6,126,157,1 24,6,119,253,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000441.jpg 83,41,336,623,4 67,45,354,510,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000442.jpg 132,19,343,464,4 132,21,344,313,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000443.jpg 255,74,394,268,1 375,283,467,349,3 251,75,378,349,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000444.jpg 169,286,310,542,5 133,85,308,307,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000445.jpg 2,239,362,621,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000446.jpg 0,13,467,604,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000447.jpg 0,0,467,624,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000448.jpg 148,0,367,430,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000449.jpg 244,147,417,602,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000450.jpg 0,74,407,598,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000451.jpg 111,45,466,731,3 1,386,349,825,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000452.jpg 0,479,417,825,5 0,0,466,680,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000453.jpg 0,429,350,825,5 78,0,466,747,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000454.jpg 141,321,227,385,7 145,228,254,351,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000455.jpg 172,290,259,352,7 155,183,264,317,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000456.jpg 0,0,467,599,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000457.jpg 113,340,305,467,5 76,29,344,372,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000458.jpg 38,187,466,623,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000459.jpg 6,6,466,623,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000460.jpg 91,101,435,591,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000461.jpg 87,107,351,483,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000462.jpg 0,362,466,829,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000463.jpg 191,359,336,542,5 173,180,360,395,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000464.jpg 0,23,466,623,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000465.jpg 16,2,258,346,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000466.jpg 60,2,252,378,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000467.jpg 10,28,349,467,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000468.jpg 1,63,467,612,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000469.jpg 164,134,309,276,3 166,264,300,418,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000470.jpg 178,66,272,149,3 176,148,271,237,8 193,154,257,343,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000471.jpg 171,64,299,240,3 170,208,285,310,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000472.jpg 10,6,415,350,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000473.jpg 0,0,623,467,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000474.jpg 0,198,467,531,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000475.jpg 0,109,624,467,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000476.jpg 1,88,350,354,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000477.jpg 0,1,467,350,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000478.jpg 0,181,467,472,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000479.jpg 30,0,358,350,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000480.jpg 48,7,601,467,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000481.jpg 134,28,240,124,3 187,96,277,200,8 192,102,286,282,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000482.jpg 0,52,429,541,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000483.jpg 0,1,623,432,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000484.jpg 0,138,345,378,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000485.jpg 0,1,467,336,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000486.jpg 177,106,288,239,3 183,216,279,316,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000487.jpg 77,53,360,253,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000488.jpg 0,0,606,434,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000489.jpg 75,0,461,392,3 63,283,412,623,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000490.jpg 0,338,467,723,8 37,42,439,391,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000491.jpg 66,330,346,623,8 0,0,445,440,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000492.jpg 148,269,259,542,5 147,112,287,309,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000493.jpg 148,0,320,111,3 118,75,330,404,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000494.jpg 0,348,467,623,5 1,1,467,622,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000495.jpg 1,39,467,623,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000496.jpg 97,165,422,519,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000497.jpg 64,180,421,564,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000498.jpg 84,309,331,623,8 128,137,350,362,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000499.jpg 120,412,284,569,8 107,243,318,470,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000500.jpg 170,346,297,581,8 161,212,298,376,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000501.jpg 56,24,353,558,8 0,38,464,441,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000502.jpg 179,278,315,558,8 155,172,337,301,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000503.jpg 133,292,362,619,8 181,48,467,486,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000504.jpg 147,389,396,605,8 143,52,467,525,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000505.jpg 101,4,444,310,10 63,191,400,595,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000506.jpg 231,197,395,507,8 162,8,415,423,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000507.jpg 1,0,467,622,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000508.jpg 0,36,299,399,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000509.jpg 20,8,421,611,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000510.jpg 134,433,379,621,5 56,1,405,484,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000511.jpg 161,550,403,832,3 106,106,351,403,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000512.jpg 34,219,383,622,12
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000513.jpg 7,52,348,446,12
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000514.jpg 215,174,331,289,7 193,72,304,206,12
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000515.jpg 53,71,466,603,12
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000516.jpg 169,250,284,361,7 160,145,269,271,12
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000517.jpg 1,25,464,600,12
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000518.jpg 9,254,467,623,12
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000519.jpg 88,408,414,623,7 44,3,416,504,12
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000520.jpg 3,1,420,535,12
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000521.jpg 134,112,249,266,3 128,233,241,470,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000522.jpg 110,101,220,238,3 139,194,300,450,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000523.jpg 3,484,225,623,8 1,257,354,616,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000524.jpg 132,59,325,250,3 135,232,306,556,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000525.jpg 154,214,286,481,8 170,135,293,246,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000526.jpg 248,157,379,276,6 166,234,328,465,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000527.jpg 138,74,379,338,8 53,0,222,148,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000528.jpg 149,423,436,623,8 115,110,466,561,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000529.jpg 80,264,248,637,8 100,62,283,309,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000530.jpg 186,245,398,520,8 122,149,266,292,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000531.jpg 160,252,241,410,8 162,165,252,273,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000532.jpg 149,263,311,623,5 113,16,333,308,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000533.jpg 156,159,316,313,3 187,288,305,584,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000534.jpg 14,273,224,639,8 89,116,280,319,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000535.jpg 8,158,422,571,6 183,391,399,623,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000536.jpg 112,490,465,623,8 1,178,466,579,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000537.jpg 90,159,222,384,8 73,29,246,189,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000538.jpg 159,254,289,517,8 154,161,292,281,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000539.jpg 0,38,467,407,11
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000540.jpg 1,0,364,373,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000541.jpg 122,0,467,379,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000542.jpg 183,100,324,144,3 180,123,334,297,7
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000543.jpg 14,24,467,598,7
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000544.jpg 82,0,395,427,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000545.jpg 159,34,338,315,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000546.jpg 1,40,466,623,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000547.jpg 1,46,467,532,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000548.jpg 1,56,467,538,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000549.jpg 120,8,337,244,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000550.jpg 213,0,437,188,1 150,137,362,385,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000551.jpg 0,70,467,585,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000552.jpg 0,25,467,532,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000553.jpg 90,201,467,623,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000554.jpg 107,136,349,350,8 218,0,463,198,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000555.jpg 0,29,351,460,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000556.jpg 23,1,316,467,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000557.jpg 103,1,466,624,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000558.jpg 0,61,368,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000559.jpg 166,322,296,595,5 110,189,324,496,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000560.jpg 161,341,305,623,5 132,213,289,501,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000561.jpg 143,302,267,554,5 83,151,323,447,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000562.jpg 153,358,331,705,5 1,55,466,615,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000563.jpg 1,139,467,612,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000564.jpg 9,165,450,590,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000565.jpg 163,356,311,622,5 102,71,369,483,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000566.jpg 88,220,419,452,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000567.jpg 0,48,334,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000568.jpg 0,61,284,447,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000569.jpg 1,125,466,768,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000570.jpg 88,274,271,622,5 54,26,336,370,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000571.jpg 151,541,311,831,5 8,242,457,755,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000572.jpg 0,18,254,449,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000573.jpg 179,255,348,496,5 135,2,416,341,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000574.jpg 178,252,300,430,7 165,58,290,282,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000575.jpg 156,402,347,623,5 115,0,359,454,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000576.jpg 126,328,301,542,7 115,113,337,371,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000577.jpg 191,192,331,378,7 180,24,366,220,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000578.jpg 0,15,467,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000579.jpg 146,159,322,323,3 157,300,289,426,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000580.jpg 0,129,350,436,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000581.jpg 127,131,224,239,3 138,216,226,319,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000582.jpg 103,6,392,293,3 140,270,353,488,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000583.jpg 0,17,467,350,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000584.jpg 79,160,314,419,3 143,380,336,575,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000585.jpg 1,51,467,324,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000586.jpg 0,203,467,599,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000587.jpg 133,249,329,379,3 158,371,299,512,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000588.jpg 1,103,467,464,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000589.jpg 163,1,467,187,3 130,109,398,373,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000590.jpg 160,179,350,371,3 118,337,294,538,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000591.jpg 1,0,458,262,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000592.jpg 1,155,449,559,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000593.jpg 2,60,261,332,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000594.jpg 200,102,292,232,3 186,208,301,341,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000595.jpg 115,233,332,360,3 142,355,286,489,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000596.jpg 1,159,350,415,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000597.jpg 1,6,467,510,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000598.jpg 1,40,467,287,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000599.jpg 3,18,462,316,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000600.jpg 1,124,467,483,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000601.jpg 152,1,357,196,6 149,183,371,388,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000602.jpg 0,0,438,467,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000603.jpg 72,419,301,624,5 89,113,375,477,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000604.jpg 37,269,467,660,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000605.jpg 141,512,339,779,5 20,217,439,541,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000606.jpg 6,0,299,308,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000607.jpg 98,128,219,242,5 146,24,280,174,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000608.jpg 100,129,180,296,5 87,5,202,153,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000609.jpg 35,167,151,321,7 0,0,189,218,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000610.jpg 67,273,222,399,5 0,0,245,333,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000611.jpg 73,156,205,292,7 57,0,247,190,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000612.jpg 97,168,221,304,7 86,1,259,204,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000613.jpg 0,270,467,592,8 108,62,360,354,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000614.jpg 74,564,444,862,8 0,86,466,661,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000615.jpg 166,326,386,507,8 144,0,411,368,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000616.jpg 74,287,447,521,8 41,94,379,354,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000617.jpg 178,306,366,505,8 158,96,365,396,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000618.jpg 133,170,269,324,8 132,40,276,236,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000619.jpg 58,559,297,814,8 39,225,467,825,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000620.jpg 0,0,467,624,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000621.jpg 0,153,467,623,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000622.jpg 164,140,301,277,8 158,18,313,205,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000623.jpg 112,359,466,624,8 0,0,467,624,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000624.jpg 80,2,831,467,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000625.jpg 0,0,262,454,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000626.jpg 0,192,466,669,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000627.jpg 1,2,467,381,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000628.jpg 15,99,467,571,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000629.jpg 171,325,321,540,5 129,80,342,364,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000630.jpg 163,336,309,547,5 114,107,322,377,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000631.jpg 143,492,419,622,5 21,1,467,582,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000632.jpg 101,371,269,479,5 62,187,269,420,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000633.jpg 127,488,371,623,5 47,52,455,542,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000634.jpg 0,18,467,596,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000635.jpg 102,330,396,623,5 140,52,467,453,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000636.jpg 66,290,334,623,5 104,21,381,312,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000637.jpg 0,0,421,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000638.jpg 95,5,450,414,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000639.jpg 29,468,319,702,5 38,224,467,593,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000640.jpg 19,0,348,350,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000641.jpg 0,0,420,532,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000642.jpg 0,36,467,662,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000643.jpg 108,357,338,582,7 135,37,433,434,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000644.jpg 0,140,467,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000645.jpg 136,454,441,623,5 2,74,467,533,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000646.jpg 47,328,467,833,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000647.jpg 129,332,281,599,5 97,96,306,375,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000648.jpg 125,659,386,830,5 0,113,467,710,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000649.jpg 0,0,467,610,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000650.jpg 42,98,467,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000651.jpg 66,291,467,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000652.jpg 0,136,431,624,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000653.jpg 0,347,467,832,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000654.jpg 200,320,301,583,8 189,188,335,329,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000655.jpg 169,172,263,394,8 107,77,283,210,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000656.jpg 52,1,431,115,6 156,66,337,521,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000657.jpg 0,1,190,110,6 1,75,179,457,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000658.jpg 145,218,310,569,8 91,30,358,252,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000659.jpg 0,0,344,263,6 131,192,452,630,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000660.jpg 181,217,288,440,8 151,84,310,233,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000661.jpg 148,261,316,659,8 125,99,349,274,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000662.jpg 142,329,266,614,8 137,196,316,369,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000663.jpg 37,0,425,631,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000664.jpg 188,203,258,429,8 183,82,293,225,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000665.jpg 216,65,363,217,10 330,209,382,251,5 234,196,333,402,8 372,200,411,250,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000666.jpg 141,402,350,716,8 88,180,387,429,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000667.jpg 124,241,243,532,8 111,88,202,321,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000668.jpg 0,0,262,118,6 34,17,282,472,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000669.jpg 2,1,288,115,6 29,1,319,523,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000670.jpg 0,124,465,630,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000671.jpg 0,192,466,630,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000672.jpg 222,256,307,322,8 212,146,318,290,6 231,264,295,409,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000673.jpg 0,200,467,623,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000674.jpg 0,123,465,572,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000675.jpg 38,0,433,623,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000676.jpg 73,91,415,586,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000677.jpg 11,149,466,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000678.jpg 4,159,432,630,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000679.jpg 105,355,466,623,6 0,138,279,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000680.jpg 132,3,337,467,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000681.jpg 17,331,466,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000682.jpg 25,195,318,655,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000683.jpg 36,23,466,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000684.jpg 0,270,270,619,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000685.jpg 0,0,466,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000686.jpg 105,231,466,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000687.jpg 0,0,466,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000688.jpg 0,209,350,655,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000689.jpg 108,75,366,538,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000690.jpg 34,171,466,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000691.jpg 87,123,445,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000692.jpg 22,264,383,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000693.jpg 37,3,463,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000694.jpg 95,249,436,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000695.jpg 193,213,339,570,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000696.jpg 121,359,466,623,6 0,131,299,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000697.jpg 0,197,358,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000698.jpg 0,0,465,555,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000699.jpg 1,130,466,573,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000700.jpg 0,0,466,598,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000701.jpg 0,76,465,624,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000702.jpg 0,333,466,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000703.jpg 0,227,466,624,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000704.jpg 0,0,457,583,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000705.jpg 66,418,466,623,5 0,0,466,508,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000706.jpg 84,647,440,827,5 0,50,465,765,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000707.jpg 75,409,455,623,8 0,0,466,504,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000708.jpg 0,224,466,624,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000709.jpg 0,151,467,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000710.jpg 0,69,414,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000711.jpg 22,42,466,570,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000712.jpg 125,270,340,467,5 137,5,417,356,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000713.jpg 51,348,228,515,5 0,25,287,430,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000714.jpg 59,0,457,475,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000715.jpg 136,264,259,562,5 92,16,262,428,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000716.jpg 58,0,320,65,3 38,3,318,422,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000717.jpg 64,0,399,194,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000718.jpg 190,248,291,544,5 199,103,310,289,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000719.jpg 116,108,201,253,5 115,16,213,120,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000720.jpg 0,0,224,236,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000721.jpg 1,0,452,623,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000722.jpg 0,0,438,607,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000723.jpg 47,85,315,467,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000724.jpg 0,27,467,623,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000725.jpg 152,306,360,575,5 77,0,393,365,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000726.jpg 0,129,345,508,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000727.jpg 0,29,466,590,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000728.jpg 0,25,467,607,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000729.jpg 143,76,446,614,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000730.jpg 0,80,342,391,7
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000731.jpg 0,115,433,525,7
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000732.jpg 0,92,350,430,7
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000733.jpg 0,48,350,416,7
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000734.jpg 130,61,321,177,3 115,141,332,401,7
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000735.jpg 0,16,350,398,7
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000736.jpg 0,92,467,558,7
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000737.jpg 33,1,452,583,3 0,0,461,624,10 185,313,466,624,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000738.jpg 97,26,372,251,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000739.jpg 0,226,466,645,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000740.jpg 0,33,420,350,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000741.jpg 129,206,310,601,5 108,37,320,314,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000742.jpg 0,0,465,831,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000743.jpg 27,30,409,831,4 2,55,465,664,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000744.jpg 0,213,465,622,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000745.jpg 84,155,431,623,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000746.jpg 76,174,159,251,7 84,84,214,191,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000747.jpg 3,92,373,618,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000748.jpg 40,1,467,567,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000749.jpg 84,1,467,350,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000750.jpg 22,99,383,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000751.jpg 42,248,328,624,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000752.jpg 113,133,359,536,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000753.jpg 168,230,360,451,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000754.jpg 145,329,267,515,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000755.jpg 200,221,359,476,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000756.jpg 27,105,467,477,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000757.jpg 20,62,456,468,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000758.jpg 0,0,350,467,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000759.jpg 165,272,312,446,8 102,99,331,298,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000760.jpg 123,137,353,331,3 179,308,330,490,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000761.jpg 55,0,430,111,11 43,1,408,537,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000762.jpg 0,17,406,621,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000763.jpg 75,2,334,328,3 89,282,348,623,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000764.jpg 0,5,467,623,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000765.jpg 106,0,434,595,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000766.jpg 130,1,312,61,3 114,37,338,530,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000767.jpg 161,117,322,489,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000768.jpg 0,0,467,391,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000769.jpg 0,57,466,604,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000770.jpg 45,166,177,461,5 27,0,199,213,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000771.jpg 165,111,340,159,3 146,134,359,596,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000772.jpg 29,0,350,462,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000773.jpg 1,1,467,344,6 57,202,345,537,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000774.jpg 0,0,465,772,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000775.jpg 183,123,259,205,3 175,196,270,365,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000776.jpg 1,0,467,319,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000777.jpg 0,30,350,429,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000778.jpg 120,353,265,626,5 96,167,283,400,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000779.jpg 129,516,361,714,7 83,101,434,579,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000780.jpg 5,0,467,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000781.jpg 16,66,415,647,6 73,94,421,712,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000782.jpg 0,257,338,826,4 0,244,422,738,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000783.jpg 0,48,349,312,6 10,62,349,467,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000784.jpg 48,225,354,624,4 58,212,368,542,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000785.jpg 126,90,319,377,6 140,105,301,437,4 155,304,300,581,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000786.jpg 17,3,466,588,6 11,4,466,782,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000787.jpg 109,136,357,618,4 81,130,361,443,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000788.jpg 0,1,466,570,6 28,16,456,830,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000789.jpg 154,380,331,687,4 78,363,387,651,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000790.jpg 2,5,466,623,6 27,57,466,623,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000791.jpg 101,178,328,624,4 83,149,338,474,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000792.jpg 83,136,307,371,6 90,132,324,491,4 145,335,310,617,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000793.jpg 0,191,467,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000794.jpg 179,350,350,545,7 150,132,359,406,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000795.jpg 138,535,407,720,7 91,231,437,783,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000796.jpg 0,6,467,467,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000797.jpg 119,0,467,825,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000798.jpg 53,0,317,467,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000799.jpg 81,177,400,800,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000800.jpg 89,0,274,467,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000801.jpg 0,0,342,429,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000802.jpg 154,12,264,323,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000803.jpg 36,56,264,467,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000804.jpg 160,258,288,545,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000805.jpg 2,2,467,623,7
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000806.jpg 116,37,303,592,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000807.jpg 175,160,332,528,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000808.jpg 165,128,276,450,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000809.jpg 139,0,309,617,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000810.jpg 130,100,349,577,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000811.jpg 0,0,466,257,3 0,167,467,736,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000812.jpg 0,0,467,625,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000813.jpg 23,184,467,744,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000814.jpg 124,161,236,345,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000815.jpg 256,0,467,623,2 0,0,282,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000816.jpg 0,0,467,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000817.jpg 1,0,351,404,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000818.jpg 154,0,342,343,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000819.jpg 7,2,467,467,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000820.jpg 60,135,269,399,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000821.jpg 122,218,181,301,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000822.jpg 125,182,276,303,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000823.jpg 88,0,361,441,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000824.jpg 0,153,191,432,4 222,217,457,639,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000825.jpg 89,133,205,303,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000826.jpg 2,83,452,593,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000827.jpg 86,0,447,741,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000828.jpg 208,0,436,342,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000829.jpg 0,65,233,391,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000830.jpg 23,274,359,621,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000831.jpg 16,0,299,396,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000832.jpg 97,0,436,566,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000833.jpg 96,67,259,316,10 78,159,209,337,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000834.jpg 110,0,467,187,6 53,97,415,719,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000835.jpg 0,9,624,467,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000836.jpg 228,104,349,266,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000837.jpg 35,248,410,623,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000838.jpg 106,6,353,637,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000839.jpg 81,220,384,623,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000840.jpg 163,167,297,532,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000841.jpg 0,0,450,623,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000842.jpg 17,70,432,590,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000843.jpg 68,222,415,623,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000844.jpg 205,248,340,539,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000845.jpg 48,95,128,224,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000846.jpg 12,232,467,623,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000847.jpg 304,316,467,831,3 37,391,286,831,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000848.jpg 177,165,376,748,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000849.jpg 153,262,467,623,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000850.jpg 228,147,447,719,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000851.jpg 23,14,467,620,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000852.jpg 18,96,390,514,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000853.jpg 164,28,267,235,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000854.jpg 53,83,283,293,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000855.jpg 41,210,439,623,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000856.jpg 126,0,467,526,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000857.jpg 32,209,397,623,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000858.jpg 0,228,389,623,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000859.jpg 16,100,467,623,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000860.jpg 78,90,406,508,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000861.jpg 1,67,286,349,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000862.jpg 85,17,342,557,0
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000863.jpg 140,323,326,559,5 80,2,391,368,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000864.jpg 84,165,320,622,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000865.jpg 13,208,275,623,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000866.jpg 106,262,327,623,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000867.jpg 83,0,428,581,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000868.jpg 69,282,309,623,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000869.jpg 1,231,426,623,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000870.jpg 37,1,236,126,6 83,77,204,351,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000871.jpg 0,118,433,626,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000872.jpg 210,151,348,394,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000873.jpg 1,17,466,623,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000874.jpg 6,79,466,623,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000875.jpg 147,224,230,340,5 124,99,238,228,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000876.jpg 25,10,304,283,3 0,68,292,467,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000877.jpg 56,0,404,619,4 28,0,463,349,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000878.jpg 33,0,467,421,3 69,0,422,624,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000879.jpg 156,433,410,696,3 171,466,378,910,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000880.jpg 135,130,383,356,3 145,134,348,497,4 171,345,333,606,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000881.jpg 168,249,467,581,3 168,247,467,623,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000882.jpg 0,206,347,526,3 45,207,342,623,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000883.jpg 13,63,311,467,4 38,0,328,310,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000884.jpg 2,1,334,445,4 1,1,310,316,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000885.jpg 1,0,467,581,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000886.jpg 0,0,439,624,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000887.jpg 1,1,467,537,3 70,346,426,613,7
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000888.jpg 64,93,466,622,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000889.jpg 1,142,467,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000890.jpg 125,294,466,624,5 0,1,402,603,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000891.jpg 164,228,308,417,7 128,58,294,259,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000892.jpg 1,0,262,383,6 52,319,208,428,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000893.jpg 194,312,286,481,5 172,184,301,333,10
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000894.jpg 105,423,347,630,5 4,5,451,516,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000895.jpg 1,0,439,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000896.jpg 69,375,467,623,5 0,0,467,440,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000897.jpg 11,7,198,353,7
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000898.jpg 86,0,382,245,3 150,189,318,383,7
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000899.jpg 168,331,314,499,7 120,108,357,394,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000900.jpg 37,0,313,127,6 103,70,333,365,7
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000901.jpg 9,137,467,539,7
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000902.jpg 162,325,286,482,7 147,134,317,371,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000903.jpg 167,64,362,155,3 151,102,402,408,7
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000904.jpg 98,386,415,623,7 0,19,342,522,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000905.jpg 0,0,467,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000906.jpg 11,438,334,770,7 0,0,331,537,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000907.jpg 52,439,384,623,5 0,1,467,560,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000908.jpg 161,324,297,446,7 145,162,315,353,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000909.jpg 34,275,205,383,7 0,0,269,330,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000910.jpg 9,56,90,99,7 12,0,88,73,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000911.jpg 0,322,458,630,7 53,39,383,409,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000912.jpg 0,191,467,585,7 53,0,437,326,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000913.jpg 11,294,436,623,7 25,43,379,432,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000914.jpg 42,201,467,623,7 0,24,460,483,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000915.jpg 11,220,467,594,7 0,27,404,391,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000916.jpg 116,452,342,623,7 0,93,364,545,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000917.jpg 24,338,436,621,7 29,0,432,434,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000918.jpg 125,250,376,520,7 0,0,347,423,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000919.jpg 0,261,467,623,7 0,0,467,457,11
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000920.jpg 91,320,333,585,7 160,5,467,526,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000921.jpg 170,222,414,497,7 0,0,360,404,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000922.jpg 71,406,416,722,7 1,0,466,475,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000923.jpg 1,319,466,723,7 1,60,466,552,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000924.jpg 85,128,337,518,9
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000925.jpg 43,292,192,584,5 41,62,228,303,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000926.jpg 88,279,437,796,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000927.jpg 137,212,385,830,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000928.jpg 187,31,467,582,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000929.jpg 1,328,467,832,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000930.jpg 1,63,465,832,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000931.jpg 21,1,467,623,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000932.jpg 93,2,326,541,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000933.jpg 138,122,367,623,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000934.jpg 0,5,467,622,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000935.jpg 97,124,267,467,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000936.jpg 68,10,343,795,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000937.jpg 10,0,417,624,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000938.jpg 191,132,249,274,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000939.jpg 79,205,268,676,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000940.jpg 156,205,310,371,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000941.jpg 0,23,466,572,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000942.jpg 174,245,339,421,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000943.jpg 155,347,395,609,5 0,0,466,459,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000944.jpg 126,354,412,623,5 0,0,466,494,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000945.jpg 19,205,114,407,5 21,123,145,233,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000946.jpg 29,307,238,467,8 0,31,261,368,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000947.jpg 158,246,302,555,5 127,45,357,273,6 134,217,315,345,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000948.jpg 214,1,409,230,6 164,173,329,410,5 187,167,337,288,8
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000949.jpg 28,86,286,467,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000950.jpg 0,23,464,830,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000951.jpg 1,93,466,623,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000952.jpg 70,280,204,469,5 10,91,251,327,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000953.jpg 1,297,450,830,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000954.jpg 69,2,276,197,6 109,145,256,450,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000955.jpg 62,0,290,222,6 121,175,274,478,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000956.jpg 44,292,235,485,5 1,4,290,383,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000957.jpg 7,23,467,679,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000958.jpg 195,254,285,343,8 172,181,237,278,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000959.jpg 0,141,459,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000960.jpg 307,121,433,500,2 18,55,365,601,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000961.jpg 75,16,467,623,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000962.jpg 51,110,240,217,6 105,175,247,339,7
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000963.jpg 38,1,372,90,6 84,46,314,393,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000964.jpg 140,460,312,609,8 154,349,320,479,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000965.jpg 0,7,467,623,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000966.jpg 332,225,375,280,6 109,190,330,485,4 309,257,364,321,5
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000967.jpg 27,132,430,606,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000968.jpg 137,322,332,439,7 56,0,414,415,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000969.jpg 158,299,335,403,7 101,11,384,355,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000970.jpg 79,520,253,683,5 65,137,455,622,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000971.jpg 160,449,353,623,5 86,174,411,597,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000972.jpg 209,333,342,623,5 177,81,404,437,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000973.jpg 160,517,351,630,5 94,172,427,624,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000974.jpg 0,0,464,824,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000975.jpg 195,344,266,523,5 152,254,306,400,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000976.jpg 11,258,431,830,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000977.jpg 0,0,466,623,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000978.jpg 212,357,272,507,5 199,250,290,385,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000979.jpg 137,363,466,623,5 0,39,432,534,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000980.jpg 1,3,465,700,6
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000981.jpg 0,205,430,624,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000982.jpg 88,467,409,649,7 0,0,431,624,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000983.jpg 0,34,466,615,3
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000984.jpg 5,235,366,621,4
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000985.jpg 155,280,271,539,5 175,192,274,309,1
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000986.jpg 0,0,467,559,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000987.jpg 0,11,449,660,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000988.jpg 192,147,270,321,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000989.jpg 63,101,390,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000990.jpg 167,205,286,481,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000991.jpg 128,19,410,578,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000992.jpg 160,0,279,210,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000993.jpg 0,50,467,831,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000994.jpg 195,126,313,352,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000995.jpg 208,166,303,379,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000996.jpg 71,0,377,618,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000997.jpg 86,6,393,623,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000998.jpg 177,132,222,268,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000999.jpg 52,2,355,630,2
+/mnt/c/Users/wjpas/OneDrive/Documents/A_Fall_2022/CSCE-489/TrainYOLO-Deepfashion/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/001000.jpg 171,104,248,262,2
